@@ -14,14 +14,14 @@
 ---
 
 ### What I work with
-<!-- Data & ML -->
+**Data & ML **
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![YOLO11](https://img.shields.io/badge/YOLO11-111F68)
 ![ETL](https://img.shields.io/badge/Data%20Pipelines%20%2F%20ETL-555555)
 
-<!-- Cloud, tooling & frameworks -->
+** Cloud, tooling & frameworks **
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)

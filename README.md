@@ -14,28 +14,37 @@
 ---
 
 ### What I work with
-
-**Data & ML**
-
+<!-- Data & ML -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![YOLO11](https://img.shields.io/badge/YOLO11-111F68)
 ![ETL](https://img.shields.io/badge/Data%20Pipelines%20%2F%20ETL-555555)
 
-**Cloud & tooling**
-
+<!-- Cloud, tooling & frameworks -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-**Systems & other**
+<!-- Databases & platforms -->
+![InterSystems](https://img.shields.io/badge/InterSystems-336791)
+![ObjectScript](https://img.shields.io/badge/ObjectScript-333333)
 
+<!-- Languages, systems & docs -->
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+
+<!-- Security & forensics -->
+![Questmount](https://img.shields.io/badge/Questmount-5A5A5A)
+![EZ Tools](https://img.shields.io/badge/EZ%20Tools-5A5A5A)
 
 ---
 

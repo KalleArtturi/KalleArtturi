@@ -55,15 +55,6 @@
 
 ---
 
-### Featured projects
-
-| Project | What it is | Tech |
-| --- | --- | --- |
-| **[Robotics Solutions — EU Arise](https://github.com/KalleArtturi/REPO-NAME)** | Real-time object detection on multi-sensor robot data, built on ROS 2 and validated in Gazebo simulation | Python · YOLO11 · ROS 2 · Gazebo |
-| **[SeeTrue](https://github.com/KalleArtturi/REPO-NAME)** | Low-latency, peer-to-peer H.264 video streaming pipeline with a custom UDP protocol and no server infrastructure | C++ · FFmpeg · UDP · Android NDK |
-
----
-
 ### Currently
 
 Building out my data-science portfolio around time-series and physiological / sensor data, and finishing my degree.
